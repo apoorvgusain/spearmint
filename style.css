@@ -6,5 +6,5 @@
     width: 100px;
     height: 100px;
 
-   transition: left 5s ease, top 5s ease,transform 5s ease;
+   transition: left 5s ease, top 5s ease,transform 3s ease;
 }
