@@ -1,9 +1,10 @@
-#logo{
-		position: absolute;
-		left: 50%;
-		top: 50%; 
-		transform: translate(-50%, -50%)
-		width: 100px;
-		height: 100px;
-		 transition: all 5s ease;
-	}
+#logo {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 100px;
+
+   transition: left 5s ease, top 5s ease,transform 5s ease;
+}
